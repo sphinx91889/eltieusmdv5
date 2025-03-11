@@ -47,7 +47,7 @@ export default function MedicalDirectorRN() {
     <div className="pt-20">
       <PageHero 
         title="Medical Director for RN" 
-        backgroundImage="/images/medical-director-rn.jpg"
+        backgroundImage="https://storage.googleapis.com/msgsndr/8ngdMjJjmckUW3DffAfv/media/67d0af343d1088d36fdd4826.jpeg"
       />
       
       {/* Introduction Section */}
