@@ -28,7 +28,7 @@ export default function MedicalDirectorPA() {
     <div className="pt-20">
       <PageHero 
         title="Medical Director for PA" 
-        backgroundImage="/images/medical-director-pa.jpg"
+        backgroundImage="https://storage.googleapis.com/msgsndr/8ngdMjJjmckUW3DffAfv/media/67d0af343d1088d36fdd4826.jpeg"
       />
       
       {/* Introduction Section */}
